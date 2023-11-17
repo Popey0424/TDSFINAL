@@ -10,6 +10,9 @@ instance_destroy(obj_arme);
 with obj_player
 
 
-{possede_arme = 1;}
+{possede_arme = 1;
+	
+	
+	anim_arme = true;}
 
 
