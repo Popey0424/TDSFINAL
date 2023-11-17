@@ -366,6 +366,7 @@
     {"id":{"name":"spr_tas_03","path":"sprites/spr_tas_03/spr_tas_03.yy",},},
     {"id":{"name":"spr_boite04","path":"sprites/spr_boite04/spr_boite04.yy",},},
     {"id":{"name":"spr_sol_02","path":"sprites/spr_sol_02/spr_sol_02.yy",},},
+    {"id":{"name":"scr_doors","path":"scripts/scr_doors/scr_doors.yy",},},
     {"id":{"name":"spr_porte_vu_haut","path":"sprites/spr_porte_vu_haut/spr_porte_vu_haut.yy",},},
     {"id":{"name":"obj_tuyau_horiz_01","path":"objects/obj_tuyau_horiz_01/obj_tuyau_horiz_01.yy",},},
     {"id":{"name":"obj_possede_arme","path":"objects/obj_possede_arme/obj_possede_arme.yy",},},
