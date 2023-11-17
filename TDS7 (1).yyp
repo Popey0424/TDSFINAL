@@ -327,6 +327,7 @@
     {"id":{"name":"obj_text04_off","path":"objects/obj_text04_off/obj_text04_off.yy",},},
     {"id":{"name":"spr_title_pausemenu","path":"sprites/spr_title_pausemenu/spr_title_pausemenu.yy",},},
     {"id":{"name":"spr_life","path":"sprites/spr_life/spr_life.yy",},},
+    {"id":{"name":"scr_doors","path":"scripts/scr_doors/scr_doors.yy",},},
     {"id":{"name":"spr_ecriteau","path":"sprites/spr_ecriteau/spr_ecriteau.yy",},},
     {"id":{"name":"obj_weapon","path":"objects/obj_weapon/obj_weapon.yy",},},
     {"id":{"name":"obj_hublot","path":"objects/obj_hublot/obj_hublot.yy",},},

@@ -50,6 +50,7 @@
     {"name":"spr_mur_deco03","order":3,"path":"sprites/spr_mur_deco03/spr_mur_deco03.yy",},
     {"name":"spr_fluid","order":10,"path":"sprites/spr_fluid/spr_fluid.yy",},
     {"name":"spr_sprite08","order":8,"path":"sprites/spr_sprite08/spr_sprite08.yy",},
+    {"name":"scr_doors","order":1,"path":"scripts/scr_doors/scr_doors.yy",},
     {"name":"spr_eclair","order":3,"path":"sprites/spr_eclair/spr_eclair.yy",},
     {"name":"spr_mur_deco07","order":7,"path":"sprites/spr_mur_deco07/spr_mur_deco07.yy",},
     {"name":"spr_archives06","order":3,"path":"sprites/spr_archives06/spr_archives06.yy",},
