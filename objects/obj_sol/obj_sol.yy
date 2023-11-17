@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "SolObj",
+  "name": "obj_sol",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
