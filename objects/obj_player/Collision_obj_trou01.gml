@@ -3,13 +3,13 @@
 
 
 
-if (__dnd_lives = 0)
-{
-	room_goto(Room_GameOver);
-}
+//if (__dnd_lives = 0)
+//{
+//	room_goto(Room_GameOver);
+//}
 
 
-else if (__dnd_lives >= 0) and (invincible = false)
+if (__dnd_lives >= 0) and (invincible = false)
 {
 	
 	invincible = true;

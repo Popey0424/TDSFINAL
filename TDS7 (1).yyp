@@ -295,6 +295,7 @@
     {"id":{"name":"Room_Exit","path":"rooms/Room_Exit/Room_Exit.yy",},},
     {"id":{"name":"obj_fade_in","path":"objects/obj_fade_in/obj_fade_in.yy",},},
     {"id":{"name":"spr_kamikaze_idle","path":"sprites/spr_kamikaze_idle/spr_kamikaze_idle.yy",},},
+    {"id":{"name":"scr_doors","path":"scripts/scr_doors/scr_doors.yy",},},
     {"id":{"name":"obj_trigger_zone_open","path":"objects/obj_trigger_zone_open/obj_trigger_zone_open.yy",},},
     {"id":{"name":"obj_boite04","path":"objects/obj_boite04/obj_boite04.yy",},},
     {"id":{"name":"spr_pink_block","path":"sprites/spr_pink_block/spr_pink_block.yy",},},
