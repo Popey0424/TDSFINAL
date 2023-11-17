@@ -25,6 +25,7 @@ function scr_door_close(){
 		obj_porte_puzzle.image_speed = 0
 		obj_porte_puzzle.image_index = 0
 	}
+	//ouvre les porte
 }
 
 function scr_door_open()
@@ -52,4 +53,6 @@ function scr_door_open()
 	{
 		obj_porte_puzzle.image_speed = 0
 	}
+	//ferme les portes
 }
+
