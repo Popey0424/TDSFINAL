@@ -152,7 +152,7 @@ if (f4==1)
 
     {
 
-        draw_sprite(spr_livre_ouvert,image_index,500,200);
+        draw_sprite(spr_illu_cam01,image_index,1,1);
 
 
         }
@@ -160,7 +160,7 @@ if (f4==1)
     if (page_object4 = 1)
 
     {
-        draw_sprite(spr_livre_page01, image_index,500,200);
+        draw_sprite(spr_illu_cam02, image_index,1,1);
 
 
         }
@@ -168,23 +168,22 @@ if (f4==1)
         if (page_object4 = 2)
 
     {
-        draw_sprite(spr_livre_page02, image_index,500,200);
+        draw_sprite(spr_illu_cam03, image_index,1,1);
 
         }
 
            if (page_object4 = 3)
 
     {
-        draw_sprite(spr_livre_page03, image_index,500,200);
+        draw_sprite(spr_illu_cam04, image_index,1,1);
 
       }
-
-               if (page_object4 = 4)
-
-    {
-        draw_sprite(spr_livre_ferme, image_index,500,200);
-
-        } }
+	    if (page_object4 = 4)
+     {
+  f4 = 0;
+        page_object4 = 0;
+        instance_destroy(obj_stop_player);}
+              }
 		
 		
 		// afficher animation récupération arme
