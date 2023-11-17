@@ -25,6 +25,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_archives04","order":1,"path":"sprites/spr_archives04/spr_archives04.yy",},
+    {"name":"spr_illu_cam04","order":5,"path":"sprites/spr_illu_cam04/spr_illu_cam04.yy",},
     {"name":"spr_splash","order":2,"path":"sprites/spr_splash/spr_splash.yy",},
     {"name":"spr_liquid","order":1,"path":"sprites/spr_liquid/spr_liquid.yy",},
     {"name":"spr_mur_deco04","order":4,"path":"sprites/spr_mur_deco04/spr_mur_deco04.yy",},
@@ -35,7 +36,9 @@
     {"name":"spr_mur_deco02","order":2,"path":"sprites/spr_mur_deco02/spr_mur_deco02.yy",},
     {"name":"spr_tableau01","order":10,"path":"sprites/spr_tableau01/spr_tableau01.yy",},
     {"name":"spr_mur_deco01","order":1,"path":"sprites/spr_mur_deco01/spr_mur_deco01.yy",},
+    {"name":"spr_illu_fin","order":6,"path":"sprites/spr_illu_fin/spr_illu_fin.yy",},
     {"name":"spr_archives05","order":2,"path":"sprites/spr_archives05/spr_archives05.yy",},
+    {"name":"spr_illu_cam02","order":3,"path":"sprites/spr_illu_cam02/spr_illu_cam02.yy",},
     {"name":"obj_spawn_kamikaze","order":1,"path":"objects/obj_spawn_kamikaze/obj_spawn_kamikaze.yy",},
     {"name":"obj_animation_mort","order":2,"path":"objects/obj_animation_mort/obj_animation_mort.yy",},
     {"name":"spr_perso_immobile","order":9,"path":"sprites/spr_perso_immobile/spr_perso_immobile.yy",},
@@ -45,6 +48,7 @@
     {"name":"obj_splash","order":2,"path":"objects/obj_splash/obj_splash.yy",},
     {"name":"obj_goutte","order":1,"path":"objects/obj_goutte/obj_goutte.yy",},
     {"name":"spr_blood_particle","order":2,"path":"sprites/spr_blood_particle/spr_blood_particle.yy",},
+    {"name":"spr_illu_cam03","order":4,"path":"sprites/spr_illu_cam03/spr_illu_cam03.yy",},
     {"name":"spr_tableau02","order":9,"path":"sprites/spr_tableau02/spr_tableau02.yy",},
     {"name":"spr_mur_deco05","order":5,"path":"sprites/spr_mur_deco05/spr_mur_deco05.yy",},
     {"name":"spr_mur_deco03","order":3,"path":"sprites/spr_mur_deco03/spr_mur_deco03.yy",},
@@ -54,6 +58,7 @@
     {"name":"spr_eclair","order":3,"path":"sprites/spr_eclair/spr_eclair.yy",},
     {"name":"spr_mur_deco07","order":7,"path":"sprites/spr_mur_deco07/spr_mur_deco07.yy",},
     {"name":"spr_archives06","order":3,"path":"sprites/spr_archives06/spr_archives06.yy",},
+    {"name":"spr_illu_cam01","order":2,"path":"sprites/spr_illu_cam01/spr_illu_cam01.yy",},
     {"name":"spr_illu_arme","order":1,"path":"sprites/spr_illu_arme/spr_illu_arme.yy",},
   ],
 }
