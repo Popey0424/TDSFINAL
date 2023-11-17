@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "TDS7 (1)",
-    "path": "TDS7 (1).yyp",
+    "name": "FX",
+    "path": "folders/Sprites/FX.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -187,23 +187,23 @@ if (f4==1)
         } }
 		
 		
-		// afficher anim récupération arme
+		// afficher animation récupération arme
 
 
-//if (anim_arme = true) 
+if (anim_arme = true) 
 
-//	{
-//		draw_sprite(spr_livre_ferme, image_index,500,200);
-//		instance_create_layer(x,y,"Instances_pop_up", obj_stop_player);
+	{
+		draw_sprite(spr_illu_arme, image_index,1,1);
+		instance_create_layer(x,y,"Instances_pop_up", obj_stop_player);
 		
-		
+			
+	}	
 	
-//	}	
-//	else	
+	if fin_anim	= 1
 	
-//{sprite_delete(spr_livre_ferme);
+{sprite_delete(spr_illu_arme);
 
 
-//instance_destroy(obj_stop_player);}
+instance_destroy(obj_stop_player);}
 
 

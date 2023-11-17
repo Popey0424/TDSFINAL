@@ -255,11 +255,20 @@ can_shoot = false;
 
 
 
-if possede_arme = 1
+
+
+
+if anim_arme = true
 
 {
 
-anim_arme = true;
+frame = frame + 1;
 
+if frame = 120
+
+{fin_anim = 1;
+	anim_arme = false;
+	}
 
 }
+
