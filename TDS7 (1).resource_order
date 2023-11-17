@@ -1,21 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"spr_archives04","order":1,"path":"sprites/spr_archives04/spr_archives04.yy",},
-    {"name":"spr_mur_deco04","order":4,"path":"sprites/spr_mur_deco04/spr_mur_deco04.yy",},
-    {"name":"spr_mur_deco06","order":6,"path":"sprites/spr_mur_deco06/spr_mur_deco06.yy",},
-    {"name":"spr_mur_deco02","order":2,"path":"sprites/spr_mur_deco02/spr_mur_deco02.yy",},
-    {"name":"spr_tableau01","order":10,"path":"sprites/spr_tableau01/spr_tableau01.yy",},
-    {"name":"spr_mur_deco01","order":1,"path":"sprites/spr_mur_deco01/spr_mur_deco01.yy",},
-    {"name":"spr_archives05","order":2,"path":"sprites/spr_archives05/spr_archives05.yy",},
     {"name":"obj_spawn_kamikaze","order":1,"path":"objects/obj_spawn_kamikaze/obj_spawn_kamikaze.yy",},
-    {"name":"spr_tableau03","order":11,"path":"sprites/spr_tableau03/spr_tableau03.yy",},
     {"name":"obj_trigger_spawn_kamikaze_off","order":1,"path":"objects/obj_trigger_spawn_kamikaze_off/obj_trigger_spawn_kamikaze_off.yy",},
-    {"name":"spr_tableau02","order":9,"path":"sprites/spr_tableau02/spr_tableau02.yy",},
-    {"name":"spr_mur_deco05","order":5,"path":"sprites/spr_mur_deco05/spr_mur_deco05.yy",},
-    {"name":"spr_mur_deco03","order":3,"path":"sprites/spr_mur_deco03/spr_mur_deco03.yy",},
-    {"name":"spr_sprite08","order":8,"path":"sprites/spr_sprite08/spr_sprite08.yy",},
-    {"name":"spr_mur_deco07","order":7,"path":"sprites/spr_mur_deco07/spr_mur_deco07.yy",},
-    {"name":"spr_archives06","order":3,"path":"sprites/spr_archives06/spr_archives06.yy",},
   ],
 }
