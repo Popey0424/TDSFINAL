@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_spawn_kamikaze","order":1,"path":"objects/obj_spawn_kamikaze/obj_spawn_kamikaze.yy",},
+    {"name":"obj_trigger_spawn_kamikaze_off","order":1,"path":"objects/obj_trigger_spawn_kamikaze_off/obj_trigger_spawn_kamikaze_off.yy",},
+  ],
+}
