@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "group1",
-    "path": "folders/Sprites/Menu/group1.yy",
+    "name": "Buttons",
+    "path": "folders/Sprites/Menu/Buttons.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
