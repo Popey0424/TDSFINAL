@@ -30,35 +30,29 @@ if(ds_list_size(global.puzzle01_answer) == ds_list_size(global.puzzle01))
 	
 }
 
-if isFinished01 == true
-{
-	
-		
-		if (obj_porte_puzzle.image_index == 0)
-		{
-			obj_porte_puzzle.image_speed = 1
-	
-		}
 
-		if (obj_porte_puzzle.image_index == 8)
-		{
-			obj_porte_puzzle.image_speed = 0
-		}
+if (obj_porte_puzzle.image_index == 0)
+{
+	obj_porte_puzzle.image_speed = 1
+	
+}
+
+if (obj_porte_puzzle.image_index == 8)
+{
+	obj_porte_puzzle.image_speed = 0
+}
+
+
+if (global.puzzle03_answer == global.puzzle03)
+{
+	if (obj_porte_puzzle.image_index == 0)
+	{
+		obj_porte_puzzle.image_speed = 1
+	
 	}
 
-if isFinished02 == true
-{
-	if (global.puzzle03_answer == global.puzzle03)
+	if (obj_porte_puzzle.image_index == 8)
 	{
-		if (obj_porte_puzzle.image_index == 0)
-		{
-			obj_porte_puzzle.image_speed = 1
-	
-		}
-
-		if (obj_porte_puzzle.image_index == 8)
-		{
-			obj_porte_puzzle.image_speed = 0
-		}
+		obj_porte_puzzle.image_speed = 0
 	}
 }
