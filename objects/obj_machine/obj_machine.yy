@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "group1",
-    "path": "folders/Objects/Decoration/group1.yy",
+    "name": "Archives",
+    "path": "folders/Objects/Decoration/Archives.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite46",
-    "path": "sprites/Sprite46/Sprite46.yy",
+    "name": "spr_machine_",
+    "path": "sprites/spr_machine_/spr_machine_.yy",
   },
   "spriteMaskId": null,
   "visible": true,

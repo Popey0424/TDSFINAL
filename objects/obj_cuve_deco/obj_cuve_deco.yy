@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "group1",
-    "path": "folders/Objects/Decoration/group1.yy",
+    "name": "Archives",
+    "path": "folders/Objects/Decoration/Archives.yy",
   },
   "parentObjectId": {
     "name": "obj_interact",
