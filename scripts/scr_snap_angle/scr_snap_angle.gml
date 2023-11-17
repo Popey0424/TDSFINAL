@@ -107,6 +107,6 @@ function scr_volume_manager(image_angle)
 	
 	else if (image_angle >= 343.56)
 	{
-		image_angle = 350
+		image_angle = 359.92
 	}
 }

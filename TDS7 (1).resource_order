@@ -25,6 +25,7 @@
   ],
   "ResourceOrderSettings": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"spr_volume_10","order":9,"path":"sprites/spr_volume_10/spr_volume_10.yy",},
     {"name":"spr_volume_08","order":2,"path":"sprites/spr_volume_08/spr_volume_08.yy",},
     {"name":"spr_volume_02","order":4,"path":"sprites/spr_volume_02/spr_volume_02.yy",},
@@ -48,12 +49,15 @@
     {"name":"spr_archives05","order":2,"path":"sprites/spr_archives05/spr_archives05.yy",},
     {"name":"spr_illu_cam02","order":3,"path":"sprites/spr_illu_cam02/spr_illu_cam02.yy",},
 >>>>>>> ca69244440d01faf5406a68193b00883ba645392
+=======
+>>>>>>> parent of 3b007c4 (das volume?)
     {"name":"obj_spawn_kamikaze","order":1,"path":"objects/obj_spawn_kamikaze/obj_spawn_kamikaze.yy",},
     {"name":"obj_animation_mort","order":2,"path":"objects/obj_animation_mort/obj_animation_mort.yy",},
     {"name":"spr_perso_immobile","order":9,"path":"sprites/spr_perso_immobile/spr_perso_immobile.yy",},
     {"name":"spr_tableau03","order":11,"path":"sprites/spr_tableau03/spr_tableau03.yy",},
     {"name":"obj_explosion","order":4,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"obj_trigger_spawn_kamikaze_off","order":1,"path":"objects/obj_trigger_spawn_kamikaze_off/obj_trigger_spawn_kamikaze_off.yy",},
+<<<<<<< HEAD
 <<<<<<< HEAD
     {"name":"spr_volume_01","order":10,"path":"sprites/spr_volume_01/spr_volume_01.yy",},
     {"name":"spr_volume_07","order":7,"path":"sprites/spr_volume_07/spr_volume_07.yy",},
@@ -80,5 +84,8 @@
     {"name":"spr_illu_cam01","order":2,"path":"sprites/spr_illu_cam01/spr_illu_cam01.yy",},
     {"name":"spr_illu_arme","order":1,"path":"sprites/spr_illu_arme/spr_illu_arme.yy",},
 >>>>>>> ca69244440d01faf5406a68193b00883ba645392
+=======
+    {"name":"scr_doors","order":1,"path":"scripts/scr_doors/scr_doors.yy",},
+>>>>>>> parent of 3b007c4 (das volume?)
   ],
 }

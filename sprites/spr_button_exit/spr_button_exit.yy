@@ -51,8 +51,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Sprites/Menu/Buttons.yy",
+    "name": "group1",
+    "path": "folders/Sprites/Menu/group1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
